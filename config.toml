@@ -7,5 +7,5 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
     shortbio = "PhD Candidate, Environmental, Urban & Applied Microeconomics, Michigan State University"
-    logo = "images/Iris_Margetis_Professional_Headshot.jpg" 
+    logo = "images/Iris_Margetis_Professional_Headshot_v2.jpg" 
     
